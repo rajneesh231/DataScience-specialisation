@@ -17,4 +17,6 @@ __course list__
 Specialisation link - [Data Science](https://www.coursera.org/specializations/jhu-data-science)
 
 Bonus course link - [Data Visualization in R with ggplot2](https://www.coursera.org/learn/jhu-data-visualization-r?)
+
+__Note__ - The capstone project course in specialisation is done in another repo.
   
